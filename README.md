@@ -1,7 +1,7 @@
 # VelourWear - Shopify Store
 
 ## 🔗 Live Store
-https://lnkd.in/gaRFxb3X
+https://velourwear.myshopify.com
 
 Password: Test@123
 
@@ -17,8 +17,9 @@ Password: Test@123
 - Shopify (Liquid)
 - HTML, CSS, JavaScript
 
-## 📸 Screenshots
-(Add images here)
+## 📦 Product Data
+- Includes exported product dataset (CSV)
+- Contains product details, pricing, and variants
 
 ## 📚 What I Learned
 - E-commerce strategy
